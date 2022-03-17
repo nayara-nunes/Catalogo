@@ -84,3 +84,11 @@ function SrcNike(anything){
 }
 
 
+function shoesInfantil(anything){
+  document.querySelector(".shoes-infantil").src=anything;
+}
+
+function shoesColcci(anything){
+  document.querySelector(".shoes-colcci").src=anything;
+
+}
